@@ -72,26 +72,26 @@ body,html{
 .p2{
 	float: left;
 	margin-left: 2%;
-	font-size: 35%;
+	font-size: 2.2vh;
 	margin-top: 0.5vh;
 }
 .p2:hover{
 	float: left;
 	margin-left: 2%;
-	font-size: 35%;
+	font-size: 2.2vh;
 	border-bottom: 1px solid white;
 	margin-top: 0.5vh;
 }
 .p3{
 	float: left;
 	margin-left: 2%;
-	font-size: 35%;
+	font-size: 2.2vh;
 	margin-top: 0.1vh;
 }
 .p3:hover{
 	float: left;
 	margin-left: 2%;
-	font-size: 35%;
+	font-size: 2.2vh;
 	border-bottom: 1px solid white;
 	margin-top: 0.1vh;
 }
@@ -114,17 +114,26 @@ b{
 @keyframes divmove{
 	0%{
 		top: 0.1%;
-		left: 1.5%;
+		left: 1.5vh;
+	}
+	25%{
+		top: 0.1%;
+		left: 45vh;
+		background: blue;
 	}
 	50%{
+		top: -5%;
+		left: 45vh; 
+		background: yellow;
+	}
+	75%{
 		top: 0.1%;
-		left: 22%;
-		background: blue;
+		left: 45vh; 
+		background: red;
 	}
 	100%{
 		top: 0.1%;
-		left: 1.5%; 
-		background: yellow;
+		left: 1.5vh;
 	}
 }
 a{

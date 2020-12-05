@@ -1,0 +1,183 @@
+body{
+	background: url(podcastbg.jpg) top center/ cover no-repeat;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+}
+body,html{
+	margin: 0;
+}
+.deed{
+	width: 100%;
+	height: 7vh;
+	background: rgba( 255, 255, 255, 0.5);
+}
+.b1{
+	font-size: 25px;
+	margin-top: 1%;
+	margin-left: 1%;
+	float: left;
+	border: 2px solid blue;
+	color: blue;
+}
+.accpro{
+	width: 2%;
+	height: 2%;
+	float: right;
+	margin-top: 0.83%;
+	margin-right: 0.5%;
+	border-radius: 100%;
+	border: 1px solid blue;
+}
+input{
+	float: right;
+	width: 10%;
+	padding: 0.5%;
+	margin-top: 0.9%;
+	margin-right: -0.1%;
+	padding-left: 1.7%;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+#button1{
+	float: right;
+	margin-right: 1%;
+	padding: 0.5%;
+	margin-top: 0.91%;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.garah{
+	float: right;
+	margin-right: 1.5%;
+	margin-top: 1.2%;
+	font-size: 20px;
+	color: blue;
+}
+.garah:hover{
+	float: right;
+	margin-right: 1.5%;
+	margin-top: 1.2%;
+	font-size: 20px;
+	border-bottom: 1.5px solid blue;
+}
+.dood{
+	width: 12%;
+	height: 93vh;
+	background: rgba( 255, 255, 255, 0.15);
+	position: fixed;
+	border-right: 3px solid black;
+}
+#div1{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 2px solid black;
+	border-top: 4px solid black;
+}
+#p1{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+}
+#p1:hover{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+	color: blue;
+}
+#div2{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-top: 2px solid black;	
+	border-bottom: 2px solid black;	
+}
+#p2:hover{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+	color: blue;
+}
+#p2{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+}
+#div3{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
+#p3{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;	
+}
+#p3:hover{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+	color: blue;
+}
+#div4{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	background: blue;
+}
+#p4{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+}
+#div5{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 4px solid black;
+	border-top: 2px solid black;
+}
+#p5{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+}
+#p5:hover{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+	color: blue;
+}
+#div6{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 65.7vh;
+	border-bottom: 4px solid black;
+	border-top: 4px solid black;
+}
+#p6{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+}
+#p6:hover{
+	margin-left: 5%;
+	font-size: 20px;
+	margin-top: 0.9vh;
+	color: blue;
+}
+a{
+	text-decoration: none;
+	color: white;
+}

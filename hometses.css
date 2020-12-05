@@ -1,0 +1,194 @@
+body{
+	background: url(homebg.jpg) top center/ cover no-repeat;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+}
+body,html{
+	margin: 0;
+}
+.deed{
+	width: 100%;
+	height: 7vh;
+	background: rgba( 255, 255, 255, 0.30);
+}
+.b1{
+	font-size: 2.5vh;
+	margin-top: 2vh;
+	margin-left: 1%;
+	margin-bottom: 0;
+	float: left;
+	border: 2px solid black;
+}
+.accpro{
+	width: 2%;
+	height: 2%;
+	float: right;
+	margin-top: 1.3vh;
+	margin-right: 0.5%;
+	border-radius: 100%;
+	border: 1px solid black;
+}
+input{
+	float: right;
+	width: 10%;
+	padding: 1vh;
+	margin-top: 1.5vh;
+	margin-right: -0.1%;
+	padding-left: 1.7%;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+button{
+	float: right;
+	margin-right: 1%;
+	padding: 1vh;
+	margin-top: 1.5vh;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.garah{
+	float: right;
+	margin-right: 1.5%;
+	margin-top: 2vh;
+	font-size: 2.1vh;
+	color: black;
+}
+.garah:hover{
+	float: right;
+	margin-right: 1.5%;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
+	border-bottom: 1.5px solid black;
+}
+.dood{
+	width: 100%;
+	height: 93vh;
+}
+#div1{
+	width: 15%;
+	height: 70vh;
+	float: left;
+	margin-top: 10vh;
+	margin-left: 21%;
+}
+.moviepro{
+	width:100%;
+	height: 32vh;
+	border-radius: 15px;
+}
+.movietext{
+	font-size: 2.5vh;
+	text-align: center;
+	margin-top: 0;
+	border-bottom: 2px solid black;
+	display: none;
+}
+.moviepro:hover+.movietext{
+	display: block;
+	margin-bottom: -3.1vh;
+}
+#div2{
+	width: 15%;
+	height: 70svh;
+	float: left;
+	margin-top: 10vh;
+	margin-left: 6.5%;
+}
+.bookpro{
+	width: 100%;
+	height: 32vh;
+	border-radius: 15px;
+}
+.booktext{
+	font-size: 2.5vh;
+	text-align: center;
+	margin-top: 0;
+	border-bottom: 2px solid black;
+	display: none;
+}
+.bookpro:hover+.booktext{
+	display: block;
+	margin-bottom: -3.1vh;
+}
+#div3{
+	width: 15%;
+	height: 70vh;
+	float: left;
+	margin-top: 10vh;
+	margin-left: 6.5%;
+}
+.travelpro{
+	width: 100%;
+	height: 32vh;
+	border-radius: 15px;
+}
+.traveltext{
+	font-size: 2.5vh;
+	text-align: center;
+	margin-top: 0;
+	border-bottom: 2px solid black;
+	display: none;
+}
+.travelpro:hover+.traveltext{
+	display: block;
+	margin-bottom: -3.1vh;
+}
+.podcastpro{
+	width: 100%;
+	height: 32vh;
+	margin-top: 6vh;
+	border-radius: 15px;
+}
+.podcasttext{
+	font-size: 2.5vh;
+	text-align: center;
+	margin-top: 0;
+	border-bottom: 2px solid black;
+	display: none;
+}
+.podcastpro:hover+.podcasttext{
+	display: block;
+}
+.exercisepro{
+	width: 100%;
+	height: 32vh;
+	margin-top: 6vh;
+	border-radius: 15px;
+}
+.exercisetext{
+	font-size: 2.5vh;
+	text-align: center;
+	margin-top: 0;
+	border-bottom: 2px solid black;
+	display: none;
+}
+.exercisepro:hover+.exercisetext{
+	display: block;
+}
+.progresspro{
+	width: 100%;
+	height: 32vh;
+	margin-top: 6vh;
+	border-radius: 15px;
+}
+.progresstext{
+	font-size: 2.5vh;
+	text-align: center;
+	margin-top: 0;
+	border-bottom: 2px solid black;
+	display: none;
+}
+.progresspro:hover+.progresstext{
+	display: block;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+.nombulan{
+	height: 93vh;
+	width: 88%;
+	margin-left: 12%;
+	overflow-y: scroll;
+}
+.turul1{
+	color: rgb(64, 224, 208);
+	font-size: 30px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 3%;
+	float: left;
+}
+.nomhoid1{
+	width: 94%;
+	height: 30vh;
+	margin-left: 3%;
+	margin-top: 0%;
+	float: left;
+}
+.nomdiv1{
+	float: left;
+	margin-left: 3%;
+	width: 15%;
+	height: 30vh;
+}
+.nom1{
+	width: 100%;
+	height: 30vh;
+	border-radius: 5px;
+}
+.ner1{
+	color: rgb(64, 224, 208);
+	text-align: center;
+	font-size: 20px;
+	margin-top: 1%;
+	display: none;
+}
+.nom1:hover+.ner1{
+	display: block;
+}
+.nom1:hover{
+	border: 2px solid rgb(64, 224, 208);
+}
+#hmgindood{
+	width: 100%;
+	height: 5vh;
+	float: left;
+	margin-top: 5%;
+}

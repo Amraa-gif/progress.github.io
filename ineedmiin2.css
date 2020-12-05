@@ -1,0 +1,299 @@
+.kinobulan{
+	height: 93vh;
+	width: 88%;
+	margin-left: 12%;
+	overflow-y: scroll;
+}
+#hmgindood{
+	width: 100%;
+	height: 10vh;
+	float: left;
+	margin-top: 5%;
+}
+#ineed1d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed1{
+	width: 100%;
+	height: 50vh;
+}
+#ineed1:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed1p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed1:hover+#ineed1p{
+	display: block;
+}
+#ineed2d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed2{
+	width: 100%;
+	height: 50vh;
+}
+#ineed2:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed2p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed2:hover+#ineed2p{
+	display: block;
+}
+#ineed3d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed3{
+	width: 100%;
+	height: 50vh;
+}
+#ineed3:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed3p{
+	float: top;
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed3:hover+#ineed3p{
+	display: block;
+}
+#ineed4d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed4{
+	width: 100%;
+	height: 50vh;
+}
+#ineed4:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed4p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed4:hover+#ineed4p{
+	display: block;
+}
+#ineed5d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed5{
+	width: 100%;
+	height: 50vh;
+}
+#ineed5:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed5p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed5:hover+#ineed5p{
+	display: block;
+}
+#gemt0d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#gemt0{
+	width: 100%;
+	height: 50vh;
+}
+#gemt0:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#gemt0p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#gemt0:hover+#gemt0p{
+	display: block;
+}
+#gemt2d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#gemt2{
+	width: 100%;
+	height: 50vh;
+}
+#gemt2:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#gemt2p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#gemt2:hover+#gemt2p{
+	display: block;
+}
+#adal2d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#adal2{
+	width: 100%;
+	height: 50vh;
+}
+#adal2:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#adal2p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#adal2:hover+#adal2p{
+	display: block;
+}
+#ineed1dw{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed1w{
+	width: 100%;
+	height: 50vh;
+}
+#ineed1w:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed1pw{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed1w:hover+#ineed1pw{
+	display: block;
+}
+#ineed2dg{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#ineed2g{
+	width: 100%;
+	height: 50vh;
+}
+#ineed2g:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#ineed2pg{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#ineed2g:hover+#ineed2pg{
+	display: block;
+}
+#gemt0dt{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#gemt0t{
+	width: 100%;
+	height: 50vh;
+}
+#gemt0t:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#gemt0pt{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#gemt0t:hover+#gemt0pt{
+	display: block;
+}

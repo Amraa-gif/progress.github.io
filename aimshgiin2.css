@@ -1,0 +1,378 @@
+.kinobulan{
+	height: 93vh;
+	width: 88%;
+	margin-left: 12%;
+	overflow-y: scroll;
+}
+#hmgindood{
+	width: 100%;
+	height: 10vh;
+	float: left;
+	margin-top: 5%;
+}
+#aimshig1d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig1{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig1:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig1p{
+	float: top;
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig1:hover+#aimshig1p{
+	display: block;
+}
+#aimshig2{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig2d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig2:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig2p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig2:hover+#aimshig2p{
+	display: block;
+}
+#aimshig3d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig3{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig3:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig3p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig3:hover+#aimshig3p{
+	display: block;
+}
+#aimshig4d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig4{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig4:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig4p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig4:hover+#aimshig4p{
+	display: block;
+}
+#aimshig11d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig11{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig11:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig11p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig11:hover+#aimshig11p{
+	display: block;
+}
+#cartoon1d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#cartoon1{
+	width: 100%;
+	height: 50vh;
+}
+#cartoon1:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange
+}
+#cartoon1p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#cartoon1:hover+#cartoon1p{
+	display: block;
+}
+#tsuv1d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#tsuv1{
+	width: 100%;
+	height: 50vh;
+}
+#tsuv1:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#tsuv1p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#tsuv1:hover+#tsuv1p{
+	display: block;
+}
+#cartoon3d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#cartoon3{
+	width: 100%;
+	height: 50vh;
+}
+#cartoon3:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#cartoon3p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#cartoon3:hover+#cartoon3p{
+	display: block;
+}
+#aimshig1dw{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig1w{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig1w:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig1pw{
+	float: top;
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig1w:hover+#aimshig1pw{
+	display: block;
+}
+#aimshig2dg{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig2g{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig2g:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig2pg{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig2g:hover+#aimshig2pg{
+	display: block;
+}
+#cartoon3d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#cartoon3{
+	width: 100%;
+	height: 50vh;
+}
+#cartoon3:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#cartoon3p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#cartoon3:hover+#cartoon3p{
+	display: block;
+}
+#gemt1d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#gemt1{
+	width: 100%;
+	height: 50vh;
+}
+#gemt1:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#gemt1p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#gemt1:hover+#gemt1p{
+	display: block;
+}
+#tsuv2d{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#tsuv2{
+	width: 100%;
+	height: 50vh;
+}
+#tsuv2:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#tsuv2p{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#tsuv2:hover+#tsuv2p{
+	display: block;
+}
+#aimshig3dt{
+	width: 20%;
+	height: 50vh;
+	margin-left: 4%;
+	margin-top: 4%;
+	float: left;
+}
+#aimshig3t{
+	width: 100%;
+	height: 50vh;
+}
+#aimshig3t:hover{
+	width: 100%;
+	height: 50vh;
+	border: 2px solid orange;
+}
+#aimshig3pt{
+	margin-top: 1%;
+	font-size: 21px;
+	text-align: center;
+	display: none;
+	color: orange;
+}
+#aimshig3t:hover+#aimshig3pt{
+	display: block;
+}

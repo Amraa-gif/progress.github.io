@@ -1,0 +1,71 @@
+.podbulan{
+	height: 93vh;
+	width: 88%;
+	margin-left: 12%;
+	overflow-y: scroll;
+}
+#hmgindood{
+	width: 100%;
+	height: 5vh;
+	float: left;
+	margin-top: 5%;
+}
+.turul1{
+	color: blue;
+	font-size: 30px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 1.5%;
+	float: left;
+	border-bottom: 3px solid blue;
+}
+.podhoid1{
+	width: 94%;
+	height: 38vh;
+	margin-left: 3%;
+	margin-top: 0%;
+	float: left;
+	background: rgba(255, 255, 255, 0.5);
+	white-space: nowrap;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+.pod1{
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	width: 15%;
+	height: 30vh;
+	margin-top: 3vh;
+	white-space: nowrap;
+	border-radius: 5px;
+	border: 2px solid blue;
+}
+.pod1:hover{
+	border: 1px solid blue;
+}
+.pod2{
+	margin-left: 3%;
+	margin-right: 1.5%;
+	width: 15%;
+	height: 30vh;
+	margin-top: 3vh;
+	white-space: nowrap;
+	border-radius: 5px;
+	border: 2px solid blue;
+}
+.pod2:hover{
+	border: 1px solid blue;
+}
+.pod3{
+	margin-left: 1.5%;
+	margin-right: 3%;
+	width: 15%;
+	height: 30vh;
+	margin-top: 3vh;
+	white-space: nowrap;
+	border-radius: 5px;
+	border: 2px solid blue;
+}
+.pod3:hover{
+	border: 1px solid blue;
+}

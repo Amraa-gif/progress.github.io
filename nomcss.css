@@ -1,0 +1,126 @@
+			body{
+				background: url(moviebg.jpg) top center/ cover no-repeat;
+				width: 100%;
+				height: 100vh;
+				overflow: hidden;
+			}
+			body,html{
+				margin: 0;
+			}
+			.deed{
+				width: 100%;
+				height: 7vh;
+				background: rgba( 255, 255, 255, 0.15);
+			}
+			.b1{
+				font-size: 25px;
+				margin-top: 1%;
+				margin-left: 1%;
+				float: left;
+				border: 2px solid rgb(64, 224, 208);
+				color: rgb(64, 224, 208);
+			}
+			.accpro{
+				width: 2%;
+				height: 2%;
+				float: right;
+				margin-top: 0.83%;
+				margin-right: 0.5%;
+				border-radius: 100%;
+				border: 1px solid rgb(64, 224, 208);
+			}
+			input{
+				float: right;
+				width: 10%;
+				padding: 0.5%;
+				margin-top: 0.9%;
+				margin-right: -0.1%;
+				padding-left: 1.7%;
+				border-top-left-radius: 15px;
+				border-bottom-left-radius: 15px;
+			}
+			#button1{
+				float: right;
+				margin-right: 1%;
+				padding: 0.5%;
+				margin-top: 0.91%;
+				border-top-right-radius: 15px;
+				border-bottom-right-radius: 15px;
+			}
+			.garah{
+				float: right;
+				margin-right: 1.5%;
+				margin-top: 1.2%;
+				font-size: 20px;
+				color: rgb(64, 224, 208);
+			}
+			.garah:hover{
+				float: right;
+				margin-right: 1.5%;
+				margin-top: 1.2%;
+				font-size: 20px;
+				border-bottom: 1.5px solid rgb(64, 224, 208);
+			}
+			.dood{
+				width: 60%;
+				height: 70vh;
+				margin-left: 20%;
+				margin-top: 10vh;
+			}
+			.dot1{
+				float: left;
+				width: 25%;
+				height: 40vh;
+			}
+			.dotz1{
+				width: 100%;
+				height: 40vh;
+				border-radius: 10px;
+			}
+			.dot2{
+				width: 70%;
+				height: auto;
+				background: rgba(255, 255, 255, 0.2);
+				float: left;
+				margin-left: 2.5%;
+			}
+			.bich1{
+				margin-left: 2%;
+				margin-top: 1%;
+				font-size: 30px;
+				color: rgb(64, 224, 208);
+			}
+			.bich2{
+				margin-left: 2%;
+				margin-top: 1%;
+				font-size: 20px;
+				color: rgb(64, 224, 208);
+			}
+			.bich3{
+				margin-left: 2%;
+				margin-top: 1%;
+				font-size: 20px;
+				color: rgb(64, 224, 208);
+			}
+			.bich4{
+				margin-left: 5%;
+				margin-top: 1%;
+				font-size: 20px;
+				color: rgb(64, 224, 208);
+				padding-right: 5%;
+			}
+			.bich5{
+				margin-left: 2%;
+				margin-top: 1%;
+				font-size: 20px;
+				color: rgb(64, 224, 208);
+			}
+			.unshih{
+				font-size: 20px;
+				padding-top: 1%;
+				padding-bottom: 1%;
+				padding-left: 1%;
+				padding-right: 1%;
+				margin: 2%;
+				float: right;
+			}

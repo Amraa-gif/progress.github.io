@@ -13,9 +13,10 @@ body,html{
 	background: rgba( 255, 255, 255, 0.5);
 }
 .b1{
-	font-size: 25px;
-	margin-top: 1%;
+	font-size: 2.5vh;
+	margin-top: 2vh;
 	margin-left: 1%;
+	margin-bottom: 0;
 	float: left;
 	border: 2px solid blue;
 	color: blue;
@@ -24,7 +25,7 @@ body,html{
 	width: 2%;
 	height: 2%;
 	float: right;
-	margin-top: 0.83%;
+	margin-top: 1.3vh;
 	margin-right: 0.5%;
 	border-radius: 100%;
 	border: 1px solid blue;
@@ -32,8 +33,8 @@ body,html{
 input{
 	float: right;
 	width: 10%;
-	padding: 0.5%;
-	margin-top: 0.9%;
+	padding: 1vh;
+	margin-top: 1.5vh;
 	margin-right: -0.1%;
 	padding-left: 1.7%;
 	border-top-left-radius: 15px;
@@ -42,24 +43,24 @@ input{
 #button1{
 	float: right;
 	margin-right: 1%;
-	padding: 0.5%;
-	margin-top: 0.91%;
+	padding: 1vh;
+	margin-top: 1.5vh;
 	border-top-right-radius: 15px;
 	border-bottom-right-radius: 15px;
 }
 .garah{
 	float: right;
 	margin-right: 1.5%;
-	margin-top: 1.2%;
-	font-size: 20px;
+	margin-top: 2vh;
+	font-size: 2.1vh;
 	color: blue;
 }
 .garah:hover{
 	float: right;
 	margin-right: 1.5%;
-	margin-top: 1.2%;
-	font-size: 20px;
-	border-bottom: 1.5px solid blue;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
+	border-bottom: 1.5px solid blue
 }
 .dood{
 	width: 12%;
@@ -78,12 +79,12 @@ input{
 }
 #p1{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p1:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: blue;
 }
@@ -92,19 +93,20 @@ input{
 	height: 4vh;
 	float: top;
 	margin-top: 0vh;
-	border-top: 2px solid black;	
-	border-bottom: 2px solid black;	
-}
-#p2:hover{
-	margin-left: 5%;
-	font-size: 20px;
-	margin-top: 0.9vh;
-	color: blue;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	
 }
 #p2{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
+}
+#p2:hover{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+	color: blue;
 }
 #div3{
 	width: 100%;
@@ -116,12 +118,12 @@ input{
 }
 #p3{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;	
 }
 #p3:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: blue;
 }
@@ -130,31 +132,32 @@ input{
 	height: 4vh;
 	float: top;
 	margin-top: 0vh;
-	border-top: 2px solid black;
 	border-bottom: 2px solid black;
+	border-top: 2px solid black;
 	background: blue;
 }
 #p4{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
+
 #div5{
 	width: 100%;
 	height: 4vh;
 	float: top;
 	margin-top: 0vh;
-	border-bottom: 4px solid black;
+	border-bottom: 2px solid black;
 	border-top: 2px solid black;
 }
 #p5{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p5:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: blue;
 }
@@ -162,18 +165,18 @@ input{
 	width: 100%;
 	height: 4vh;
 	float: top;
-	margin-top: 65.7vh;
+	margin-top: 0;
 	border-bottom: 4px solid black;
-	border-top: 4px solid black;
+	border-top: 2px solid black;
 }
 #p6{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 }
 #p6:hover{
 	margin-left: 5%;
-	font-size: 20px;
+	font-size: 2.1vh;
 	margin-top: 0.9vh;
 	color: blue;
 }

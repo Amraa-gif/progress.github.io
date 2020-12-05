@@ -57,13 +57,13 @@ body,html{
 	padding-bottom: 1%;
 }
 .p1{
-	font-size: 30%;
+	font-size: 1.8vh;
 	float: right;
 	margin-top: 1vh;
 	margin-right: 14%;
 }
 .p1:hover{
-	font-size: 30%;
+	font-size: 1.8vh;
 	float: right;
 	margin-top: 1vh;
 	margin-right: 14%;
@@ -103,8 +103,8 @@ b{
 	position: relative;
 }
 .animet{
-	width: 5px;
-	height: 5px;
+	width: 0.5vh;
+	height: 0.5vh;
 	background: white;
 	left: 1.5%;
 	top: 0.1%;

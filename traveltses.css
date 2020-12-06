@@ -1,0 +1,186 @@
+body{
+	background: url(movie2bg.jpg) top center/ cover no-repeat;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+}
+body,html{
+	margin: 0;
+}
+.deed{
+	width: 100%;
+	height: 7vh;
+	background: rgba( 255, 255, 255, 0.3);
+}
+.b1{
+	font-size: 2.5vh;
+	margin-top: 2vh;
+	margin-left: 1%;
+	margin-bottom: 0;
+	float: left;
+	border: 2px solid lime;
+	color: lime;
+}
+.accpro{
+	width: 4vh;
+	height: 4vh;
+	float: right;
+	margin-top: 1.3vh;
+	margin-right: 0.5%;
+	border-radius: 100%;
+	border: 1px solid lime;
+}
+input{
+	float: right;
+	width: 10%;
+	padding: 1vh;
+	margin-top: 1.5vh;
+	margin-right: -0.1%;
+	padding-left: 1.7%;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+#button1{
+	float: right;
+	margin-right: 1%;
+	padding: 1vh;
+	margin-top: 1.5vh;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.garah{
+	float: right;
+	margin-right: 1.5%;
+	margin-top: 2vh;
+	font-size: 2.1vh;
+	color: lime;
+}
+.garah:hover{
+	float: right;
+	margin-right: 1.5%;
+	margin-top: 1.8vh;
+	font-size: 2.1vh;
+	border-bottom: 1.5px solid lime;
+}
+.dood{
+	width: 12%;
+	height: 93vh;
+	background: rgba( 255, 255, 255, 0.15);
+	position: fixed;
+	border-right: 3px solid black;
+}
+#div1{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 2px solid black;
+	border-top: 4px solid black;
+}
+#p1{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+}
+#p1:hover{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+	color: lime;
+}
+#div2{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	
+}
+#p2{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+}
+#p2:hover{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+	color: lime;
+}
+#div3{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	background: lime;
+}
+#p3{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;	
+}
+#div4{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+
+}
+#p4{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+}
+#p4:hover{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+	color: lime;
+}
+#div5{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0vh;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
+#p5{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+}
+#p5:hover{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+	color: lime;
+}
+#div6{
+	width: 100%;
+	height: 4vh;
+	float: top;
+	margin-top: 0;
+	border-bottom: 4px solid black;
+	border-top: 2px solid black;
+}
+#p6{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+}
+#p6:hover{
+	margin-left: 5%;
+	font-size: 2.1vh;
+	margin-top: 0.9vh;
+	color: lime;
+}
+a{
+	text-decoration: none;
+	color: white;
+}

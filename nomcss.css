@@ -10,7 +10,7 @@ body,html{
 .deed{
 	width: 100%;
 	height: 7vh;
-	background: rgba( 255, 255, 255, 0.15);
+	background: rgba( 255, 255, 255, 0.5);
 }
 .b1{
 	font-size: 2.5vh;

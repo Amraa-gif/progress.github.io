@@ -1,0 +1,83 @@
+.sodonbulan{
+	height: 93vh;
+	width: 88%;
+	margin-left: 12%;
+}
+#hmgindood{
+	width: 100%;
+	height: 5vh;
+	float: left;
+	margin-top: 1.5%;
+}
+.yrunhii{
+	font-size: 3.5vh;
+	color: fuchsia;
+	margin-left: 2.5%;
+	margin-top: 3vh;
+}
+.hoidtal{
+	width: 95%;
+	height: 30vh;
+	margin-left: 2.5%;
+	margin-top: 0vh;
+	background: rgba(255, 255, 255, 0.4);
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+	border: 0.3vh solid fuchsia;
+}
+.sodon1{
+	width: 20%;
+	height: 23vh;
+	margin-left: 2.5%;
+	margin-top: 2.5vh;
+}
+.sodon2{
+	width: 20%;
+	height: 23vh;
+	margin-left: 2.5%;
+	margin-top: 2.5vh;
+	border: 0.5vh solid fuchsia;
+}
+.sodon3{
+	width: 20%;
+	height: 23vh;
+	margin-left: 2.5%;
+	margin-top: 2.5vh;
+	margin-right: 2.5%;
+}
+.sodon4{
+	width: 20%;
+	height: 23vh;
+	margin-left: 2.5%;
+	margin-top: 2.5vh;
+	margin-right: 2.5%;
+	border: 0.5vh solid fuchsia;
+}
+.tailbardiv{
+	width: 95%;
+	margin-left: 2.5%;
+	height: 40vh;
+	margin-top: 5vh;
+	background: rgba(255, 255, 255, 0.5);
+	margin-bottom: 0vh;
+	overflow-y: scroll;
+	border: 0.3vh solid fuchsia;
+}
+.tailbar1{
+	font-size: 3vh;
+	margin-top: 2vh;
+	margin-left: 2%;
+}
+.tailbar2{
+	font-size: 2vh;
+	margin-top: 2vh;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+.tailbar3{
+	font-size: 2vh;
+	margin-top: 2vh;
+	margin-left: 2%;
+	margin-right: 2%;
+}

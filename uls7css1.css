@@ -190,13 +190,17 @@ a{
 	float: top;
 	border-bottom: 1.25px solid black; 
 	border-top: 1.25px solid black; 
-	background: lime;
-	border-radius: 5px;
 }
 #p11{
 	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
+}
+#p11:hover{
+	font-size: 1.5vh;
+	text-align: center;
+	margin-top: 1.2vh;
+	color: lime;
 }
 #div12{
 	width: 100%;
@@ -294,15 +298,11 @@ a{
 	float: top;
 	border-bottom: 1.25px solid black;
 	border-top: 1.25px solid black;
+	background: lime;
+	border-radius: 5px;
 }
 #p17{
 	font-size: 1.5vh;
 	text-align: center;
 	margin-top: 1.2vh;
-}
-#p17:hover{
-	font-size: 1.5vh;
-	text-align: center;
-	margin-top: 1.2vh;
-	color: lime;
 }

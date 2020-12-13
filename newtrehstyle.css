@@ -15,8 +15,7 @@ body,html{
 	margin-top: 10vh;
 	text-align: center;
 	color: white;
-	font-size: 6vh;
-	
+	font-size: 6vh;	
 }
 .sign{
 	padding-top: 1%;
@@ -25,14 +24,14 @@ body,html{
 	width: 70%;
 	height: 7%;
 	margin-top: 5vh; 
-	border-radius: 15px;
+	border-radius: 1vh;
 	padding-left: 2%;
 }
 .input2{
 	width: 70%;
 	height: 7%;
 	margin-top: 3vh; 
-	border-radius: 15px;
+	border-radius: 1vh;
 	padding-left: 2%;
 }
 .div2{
@@ -41,7 +40,7 @@ body,html{
 	background: brown;
 	margin-left: 14%;
 	margin-top: 5vh;
-	border-radius: 10px;
+	border-radius: 1vh;
 	font-size: 50%;
 	color: white;
 	padding-bottom: 1%;
@@ -52,7 +51,7 @@ body,html{
 	background: red;
 	margin-left: 14%;
 	margin-top: 5vh;
-	border-radius: 10px;
+	border-radius: 1vh;
 	font-size: 50%;
 	padding-bottom: 1%;
 }
@@ -61,6 +60,7 @@ body,html{
 	float: right;
 	margin-top: 1vh;
 	margin-right: 14%;
+	color: white;
 }
 .p1:hover{
 	font-size: 1.8vh;

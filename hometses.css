@@ -195,6 +195,34 @@ a{
 	text-decoration: none;
 	color: white;
 }
+.animet{
+	font-size: 3vh;
+	color: white;
+	position: absolute;
+	text-align: center;
+	animation: pmove 10s;
+	top: 90vh;
+	left: -50%;
+	border-bottom: 0.1vh solid white;
+}
+@keyframes pmove{
+	0%{
+		top: 90vh;
+		left: -50%;
+	}
+	30%{
+		top: 90vh;
+		left: 1%; 
+	}
+	70%{
+		top: 90vh;
+		left: 1%; 
+	}
+	100%{
+		top: 90vh;
+		left: -50%;
+	}
+}
 
 
 

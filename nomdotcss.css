@@ -67,7 +67,6 @@ input{
 	height: 70vh;
 	margin-left: 20%;
 	margin-top: 10vh;
-	overflow-y: scroll;
 }
 .dot1{
 	float: left;
@@ -81,10 +80,11 @@ input{
 }
 .dot2{
 	width: 70%;
-	height: auto;
+	height: 70vh;
 	background: rgba(255, 255, 255, 0.2);
 	float: left;
 	margin-left: 2.5%;
+	overflow-y: scroll;
 }
 .bich1{
 	margin-left: 2%;

@@ -30,24 +30,6 @@ body,html{
 	border-radius: 100%;
 	border: 1px solid white;
 }
-input{
-	float: right;
-	width: 10%;
-	padding: 1vh;
-	margin-top: 1.5vh;
-	margin-right: -0.1%;
-	padding-left: 1.7%;
-	border-top-left-radius: 15px;
-	border-bottom-left-radius: 15px;
-}
-button{
-	float: right;
-	margin-right: 1%;
-	padding: 1vh;
-	margin-top: 1.5vh;
-	border-top-right-radius: 15px;
-	border-bottom-right-radius: 15px;
-}
 .garah{
 	float: right;
 	margin-right: 1.5%;
